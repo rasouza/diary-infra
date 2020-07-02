@@ -11,7 +11,7 @@ spec:
   # Source of the application manifests
   source:
     repoURL: https://github.com/rasouza/diary-infra.git
-    targetRevision: master
+    targetRevision: HEAD
     path: diary/idp
 
     # kustomize specific config
